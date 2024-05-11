@@ -1,8 +1,4 @@
-// console.log("test");
-
-// Document.body.innerHTML = "<h2>Wella!!!!</h2";
-
-// alert("ciao!");
-
-// console.log("Hello, world!");
+const test2 = "Hi!";  // Deklaration + Wertzuweisung gemeinsam !
+test2 = "hello"; // Laufzeitfehler !!
+console.log("Inhalt: " + test2); // Ausgabe 
 
