@@ -2,7 +2,7 @@
   "name": "poi-butta",
   "version": "1.0.0",
   "description": "Setup Programmierumgebung Testen, ob node.js vorhanden ist: node -v Testen,  ob npm vorhanden ist: npm --v  Projekt initialisieren: npm init -y  Ordner src anlegen  Im Ordner Datei hello_world.js anlegen  Pfad zu \"main\" in package.json aktualisieren  Ausgabe Testen console.log(\"Hello, world!\") / node .",
-  "main": "TAS/03_prompt.js",
+  "main": "TAS/04_codechallenge_I.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
